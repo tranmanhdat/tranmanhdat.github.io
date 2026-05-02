@@ -32,6 +32,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # Defaults
 defaults:
   - scope:
