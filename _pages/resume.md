@@ -53,8 +53,8 @@ toc_label: "Contents"
 Le Quy Don Technical University, Hanoi, Vietnam | 2016–2021  
 GPA: 3.54 / 4.0 (Top 2%)
 
-### Master of Information Technology
-Chung-Ang University, Seoul, Korea | 2024–2025
+### Master of Information Technology (one semester)
+Chung-Ang University, Seoul, Korea | 2024
 
 ### IELTS Academic Certificate
 IDP Education | May 2023 — Overall Band Score: 6.5

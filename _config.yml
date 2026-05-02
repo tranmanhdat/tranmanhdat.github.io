@@ -11,7 +11,7 @@ minimal_mistakes_skin: "default"
 # Author (sidebar profile)
 author:
   name: "Tran Manh Dat"
-  bio: "AI Software Engineer and Researcher with experience in computer vision, speech recognition, and Linux systems. Currently pursuing a Master's degree at Chung-Ang University, Seoul."
+  bio: "AI Software Engineer and Researcher with experience in computer vision, speech recognition, and Linux systems."
   location: "Hanoi, Vietnam"
   email: "tranmanhdathsgs@gmail.com"
   links:
