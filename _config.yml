@@ -1,0 +1,42 @@
+title: "Tran Manh Dat"
+name: "Tran Manh Dat"
+description: "AI Software Engineer & Researcher specialising in computer vision, speech recognition, and systems research."
+url: "https://tranmanhdat.github.io"
+baseurl: ""
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"
+
+# Author (sidebar profile)
+author:
+  name: "Tran Manh Dat"
+  bio: "AI Software Engineer and Researcher with experience in computer vision, speech recognition, and Linux systems."
+  location: "Hanoi, Vietnam"
+  email: "tranmanhdathsgs@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tranmanhdat"
+
+# Site settings
+locale: "en-US"
+breadcrumbs: true
+words_per_minute: 200
+search: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
